@@ -117,6 +117,10 @@ Available at: investors.zomato.com
 - 🐙 GitHub: [github.com/sinaaney](https://github.com/sinaaney)
 - 💼 LinkedIn: [linkedin.com/in/muhammed-sinan-pt](https://linkedin.com/in/muhammed-sinan-pt)
 
+## 🔗 Related Projects
+- [Classplus Growth Strategy]
+(https://github.com/sinaaney/classplus-growth-strategy)
+
 ---
 
 *This project is part of a data analytics portfolio 
